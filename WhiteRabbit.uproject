@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{13C8182A-4BFE-3EF5-4C79-8BA7B9B224FB}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "WhiteRabbit",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
